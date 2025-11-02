@@ -1,0 +1,251 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 284 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.23.219:3000/
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+70 |                  Competitive and curious with underdog energy. I like giving small teams big-company tools and watching them punch above their weight.
+71 |                </p>
+72 |                <CornerCaption isDark={isDark}>CALGARY / ACTIVE / BUILDER >>> ONGOING</CornerCaption>
+   |                                                                          ^
+73 |              </div>
+74 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+70 |                  Competitive and curious with underdog energy. I like giving small teams big-company tools and watching them punch above their weight.
+71 |                </p>
+72 |                <CornerCaption isDark={isDark}>CALGARY / ACTIVE / BUILDER >>> ONGOING</CornerCaption>
+   |                                                                           ^
+73 |              </div>
+74 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+70 |                  Competitive and curious with underdog energy. I like giving small teams big-company tools and watching them punch above their weight.
+71 |                </p>
+72 |                <CornerCaption isDark={isDark}>CALGARY / ACTIVE / BUILDER >>> ONGOING</CornerCaption>
+   |                                                                            ^
+73 |              </div>
+74 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+84 |                  <li>No neon gamer UI. No corporate gradient blobs.</li>
+85 |                </ul>
+86 |                <CornerCaption isDark={isDark}>NOTES / PROCESS / FIELD TESTED >>> REAL USERS</CornerCaption>
+   |                                                                              ^
+87 |              </div>
+88 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+84 |                  <li>No neon gamer UI. No corporate gradient blobs.</li>
+85 |                </ul>
+86 |                <CornerCaption isDark={isDark}>NOTES / PROCESS / FIELD TESTED >>> REAL USERS</CornerCaption>
+   |                                                                               ^
+87 |              </div>
+88 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+84 |                  <li>No neon gamer UI. No corporate gradient blobs.</li>
+85 |                </ul>
+86 |                <CornerCaption isDark={isDark}>NOTES / PROCESS / FIELD TESTED >>> REAL USERS</CornerCaption>
+   |                                                                                ^
+87 |              </div>
+88 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+96 |                  I love volleyball and I’m grinding to get better. I love filming and making cinematic edits — started in the League of Legends montage era with friends. I help underdog teams: family restaurants, local volleyball clubs, and internal teams that are drowning.
+97 |                </p>
+98 |                <CornerCaption isDark={isDark}>GYM / COURT / TIMELINE >>> IN PROGRESS</CornerCaption>
+   |                                                                      ^
+99 |              </div>
+100|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+96 |                  I love volleyball and I’m grinding to get better. I love filming and making cinematic edits — started in the League of Legends montage era with friends. I help underdog teams: family restaurants, local volleyball clubs, and internal teams that are drowning.
+97 |                </p>
+98 |                <CornerCaption isDark={isDark}>GYM / COURT / TIMELINE >>> IN PROGRESS</CornerCaption>
+   |                                                                       ^
+99 |              </div>
+100|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+96 |                  I love volleyball and I’m grinding to get better. I love filming and making cinematic edits — started in the League of Legends montage era with friends. I help underdog teams: family restaurants, local volleyball clubs, and internal teams that are drowning.
+97 |                </p>
+98 |                <CornerCaption isDark={isDark}>GYM / COURT / TIMELINE >>> IN PROGRESS</CornerCaption>
+   |                                                                        ^
+99 |              </div>
+100|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+108|                  Restaurants, volleyball clubs, and health orgs use what I make. It’s built to survive the messy real world, not live on a slide.
+109|                </p>
+110|                <CornerCaption isDark={isDark}>FIELD / KITCHEN / CLUB >>> DEPLOYED</CornerCaption>
+   |                                                                      ^
+111|              </div>
+112|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+108|                  Restaurants, volleyball clubs, and health orgs use what I make. It’s built to survive the messy real world, not live on a slide.
+109|                </p>
+110|                <CornerCaption isDark={isDark}>FIELD / KITCHEN / CLUB >>> DEPLOYED</CornerCaption>
+   |                                                                       ^
+111|              </div>
+112|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:36 PM [vite] warning: The character ">" is not valid inside a JSX element
+108|                  Restaurants, volleyball clubs, and health orgs use what I make. It’s built to survive the messy real world, not live on a slide.
+109|                </p>
+110|                <CornerCaption isDark={isDark}>FIELD / KITCHEN / CLUB >>> DEPLOYED</CornerCaption>
+   |                                                                        ^
+111|              </div>
+112|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:37 PM [vite] ✨ new dependencies optimized: framer-motion, @splinetool/react-spline
+9:55:37 PM [vite] ✨ optimized dependencies changed. reloading
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+70 |                  Competitive and curious with underdog energy. I like giving small teams big-company tools and watching them punch above their weight.
+71 |                </p>
+72 |                <CornerCaption isDark={isDark}>CALGARY / ACTIVE / BUILDER >>> ONGOING</CornerCaption>
+   |                                                                          ^
+73 |              </div>
+74 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+70 |                  Competitive and curious with underdog energy. I like giving small teams big-company tools and watching them punch above their weight.
+71 |                </p>
+72 |                <CornerCaption isDark={isDark}>CALGARY / ACTIVE / BUILDER >>> ONGOING</CornerCaption>
+   |                                                                           ^
+73 |              </div>
+74 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+70 |                  Competitive and curious with underdog energy. I like giving small teams big-company tools and watching them punch above their weight.
+71 |                </p>
+72 |                <CornerCaption isDark={isDark}>CALGARY / ACTIVE / BUILDER >>> ONGOING</CornerCaption>
+   |                                                                            ^
+73 |              </div>
+74 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+84 |                  <li>No neon gamer UI. No corporate gradient blobs.</li>
+85 |                </ul>
+86 |                <CornerCaption isDark={isDark}>NOTES / PROCESS / FIELD TESTED >>> REAL USERS</CornerCaption>
+   |                                                                              ^
+87 |              </div>
+88 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+84 |                  <li>No neon gamer UI. No corporate gradient blobs.</li>
+85 |                </ul>
+86 |                <CornerCaption isDark={isDark}>NOTES / PROCESS / FIELD TESTED >>> REAL USERS</CornerCaption>
+   |                                                                               ^
+87 |              </div>
+88 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+84 |                  <li>No neon gamer UI. No corporate gradient blobs.</li>
+85 |                </ul>
+86 |                <CornerCaption isDark={isDark}>NOTES / PROCESS / FIELD TESTED >>> REAL USERS</CornerCaption>
+   |                                                                                ^
+87 |              </div>
+88 |            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+96 |                  I love volleyball and I’m grinding to get better. I love filming and making cinematic edits — started in the League of Legends montage era with friends. I help underdog teams: family restaurants, local volleyball clubs, and internal teams that are drowning.
+97 |                </p>
+98 |                <CornerCaption isDark={isDark}>GYM / COURT / TIMELINE >>> IN PROGRESS</CornerCaption>
+   |                                                                      ^
+99 |              </div>
+100|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+96 |                  I love volleyball and I’m grinding to get better. I love filming and making cinematic edits — started in the League of Legends montage era with friends. I help underdog teams: family restaurants, local volleyball clubs, and internal teams that are drowning.
+97 |                </p>
+98 |                <CornerCaption isDark={isDark}>GYM / COURT / TIMELINE >>> IN PROGRESS</CornerCaption>
+   |                                                                       ^
+99 |              </div>
+100|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+96 |                  I love volleyball and I’m grinding to get better. I love filming and making cinematic edits — started in the League of Legends montage era with friends. I help underdog teams: family restaurants, local volleyball clubs, and internal teams that are drowning.
+97 |                </p>
+98 |                <CornerCaption isDark={isDark}>GYM / COURT / TIMELINE >>> IN PROGRESS</CornerCaption>
+   |                                                                        ^
+99 |              </div>
+100|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+108|                  Restaurants, volleyball clubs, and health orgs use what I make. It’s built to survive the messy real world, not live on a slide.
+109|                </p>
+110|                <CornerCaption isDark={isDark}>FIELD / KITCHEN / CLUB >>> DEPLOYED</CornerCaption>
+   |                                                                      ^
+111|              </div>
+112|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+108|                  Restaurants, volleyball clubs, and health orgs use what I make. It’s built to survive the messy real world, not live on a slide.
+109|                </p>
+110|                <CornerCaption isDark={isDark}>FIELD / KITCHEN / CLUB >>> DEPLOYED</CornerCaption>
+   |                                                                       ^
+111|              </div>
+112|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
+9:55:38 PM [vite] warning: The character ">" is not valid inside a JSX element
+108|                  Restaurants, volleyball clubs, and health orgs use what I make. It’s built to survive the messy real world, not live on a slide.
+109|                </p>
+110|                <CornerCaption isDark={isDark}>FIELD / KITCHEN / CLUB >>> DEPLOYED</CornerCaption>
+   |                                                                        ^
+111|              </div>
+112|            )}
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SectionRenderer.jsx
